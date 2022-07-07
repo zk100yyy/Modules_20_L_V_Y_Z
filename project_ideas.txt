@@ -1,0 +1,22 @@
+https://www.kaggle.com/c/titanic/data
+one of the most popular data set for machine learning on Kaggle.
+about the Titanic 
+
+
+
+the classic credit score classification like the module 
+https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+
+
+classic Iris Flower Dataset
+https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+The data set consists of 50 samples from each of three species of Iris (Iris Setosa, Iris virginica, and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
+use the data to build the ML to Classification each species.
+
+
+football dataset
+https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
+
+
+Kai special crazy funny,not realistic idea,
+Cena or not Cena. build simple face recognition ML basic on grope + Cena,and train it to recognize Cena face , like the pizza or not pizza.
