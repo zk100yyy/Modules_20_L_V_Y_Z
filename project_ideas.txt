@@ -1,4 +1,4 @@
-https://www.kaggle.com/c/titanic/data
+[Titanic](https://www.kaggle.com/c/titanic/data)
 one of the most popular data set for machine learning on Kaggle.
 about the Titanic 
 
