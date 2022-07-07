@@ -59,4 +59,4 @@ This dataset includes 43,170 results of international football matches starting 
 
 ![Cena](https://media-exp2.licdn.com/dms/image/C5603AQHI9dREmJVc5g/profile-displayphoto-shrink_200_200/0/1614806815510?e=2147483647&v=beta&t=qLwbWFwZKS0WQfbPG80lC1MaRRROtmx8M-x9_L2B_Zs "Cena")
 
-~~Cena or not Cena. build simple face recognition ML basic on grope + Cena,and train it to recognize Cena face , like the pizza or not pizza.ple face recognition ML basic on grope + Cena,and train it to recognize Cena face , like the pizza or not pizza.~~
+~~Cena or not Cena. build simple face recognition ML basic on grope + Cena,and train it to recognize Cena face , like the pizza or not pizza.~~
