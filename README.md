@@ -8,6 +8,9 @@ one of the most popular data set for machine learning on Kaggle.
 
 "legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works."
 
+[**Data**](https://www.kaggle.com/c/titanic/data)
+===
+
 ## Personly opinion
 **Pro** : Many example, perfectly fit for the project.
 
@@ -20,6 +23,10 @@ one of the most popular data set for machine learning on Kaggle.
 ![credit score](https://www.nerdwallet.com/assets/blog/wp-content/uploads/2019/04/credit-score-range.png "credit score")
 
 Given a person’s credit-related information, build a machine learning model that can classify the credit score.
+
+[**Data**](https://www.kaggle.com/datasets/parisrohan/credit-score-classification)
+===
+
 
 ## Personly opinion
 **Pro** : Nothing can go wrong
@@ -36,6 +43,10 @@ Given a person’s credit-related information, build a machine learning model th
 The data set consists of 50 samples from each of three species of Iris (Iris Setosa, Iris virginica, and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
 use the data to build the ML to Classification each species.
 
+[**Data**](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
+===
+
+
 ## Personly opinion
 **Pro** : Nothing can go wrong
 
@@ -48,6 +59,9 @@ use the data to build the ML to Classification each species.
 ![World Cup](https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png "World Cup")
 
 This dataset includes 43,170 results of international football matches starting from the very first official match in 1972 up to 2022.Base on the Data to predict the 2022 World Cup Winner.
+
+[**Data**](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017)
+===
 
 ## Personly opinion
 **Pro** : Sounds fun (to me)
