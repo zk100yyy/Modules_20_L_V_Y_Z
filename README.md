@@ -79,3 +79,5 @@ This dataset includes 43,170 results of international football matches starting 
 **Pro** : Sounds very fun
 
 **Con** : Sounds very challange and not relevant to what we learned. 
+
+V2
