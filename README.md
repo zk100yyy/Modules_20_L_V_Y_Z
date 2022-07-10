@@ -1,4 +1,4 @@
-# Segment 1 Presentation
+# Segment 1 Presentation  
 
 ## Selected topic
 Titanic - Machine Learning from Disaster. 
