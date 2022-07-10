@@ -2,9 +2,11 @@ The Titanic
 
 Why we picked this Topic: 
 
-This topic's initial data is relatively more accessible, the event itself has been a public focus ever since the “unsinkable” RMS Titanic sank after colliding with an iceberg in 1912.
-The source of data: We will use two data sets for this project, train.csv and titled test.csv.
+The initial data surrounding this topic's is relatively more accessible. With this being such a public event, it has been studied by different researchers, and analysts since the “unsinkable” RMS Titanic sank after colliding with an iceberg in 1912. 
+The source of data: 
+
+By using two sets of data, train.cvs and test.csv, we hope to predict if a passenger survived the sinking of the Titanic
 
 Questions hope to answer with the data: 
 
-With the passengers being in different ages and socioeconomic status, many people fortunately survived, and many died, We want to build a predictive model that answers the question: “what sorts of people were more likely to survive?"
+Considering different ages and status, we hope to build a predictive model that answers the question: “what sorts of people were more likely to survive?”
