@@ -25,4 +25,3 @@ Data has 891 unique Value, with information ie name, age, gender, socio-economic
 ## Questions they hope to answer with the data
 with the data, we hope to find out:
 "what sorts of people were more likely to survive?"
-Modules_20_L_V_Y_Z
