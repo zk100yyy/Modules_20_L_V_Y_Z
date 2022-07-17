@@ -3,7 +3,7 @@ The Titanic shipwreck was a massive disaster, so we will implement data pre- pro
 First, we start off by importing all the data into our system. In our case we imported the data into Jupyter Note, Panda and SQL. Next, we will be dropping columns that don’t contribute much to our model such as 
 “name, ticket, cabin etc.”. If needed, we can drop the rows with missing values (NaN). We then convert “Pclass, Sex, Embarked values” into columns, dropping the same 
 columns from the data frame. To handle the missing value, age, we compute a median of all the ages. Jumping into splitting the data set into training set and test set. 
-The dataset is split 70% training and 30% test. 
+The dataset is split about 70% training and 30% test. 
 
 •	Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
 Preliminary feature engineering includes gender, deck, family size, age* classification, and fare per person. 
