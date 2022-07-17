@@ -15,6 +15,7 @@ This Notebook will show basic examples of:
 * Data Handling
 * Importing Data with Pandas
 * Cleaning Data
+* Manipulate Data via SQLite3
 * Exploring Data through Visualizations with Matplotlib
 * Merage two CSV files into one DataBase
 
