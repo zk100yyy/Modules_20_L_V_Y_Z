@@ -11,8 +11,11 @@ This Notebook will show basic examples of:
 
 •	Description of preliminary data preprocessing
 The Titanic shipwreck was a massive disaster, so we will implement data pre- processing on this data set to know the number of survivors and their details. 
-First, we start off by importing all the data into our system. In our case we chose to load data with pandas,next, we will be dropping columns that don’t contribute much to our model such as 
-“name, ticket, cabin etc.”. If needed, we can drop the rows with missing values (NaN). We then convert “Pclass, Sex, Embarked values” into columns, dropping the same 
+First, we start off by importing all the data into our system, training data set and testing data set are given by Kaggle and we will download from Kaggle. 
+
+In our case we chose to load data with pandas,next, we have Meraged the two CSV files( Train.cvs file and test.vcs file) into one DataBasewe.
+And we will be dropping columns that don’t contribute much to our model such as “name, ticket, cabin etc.”. 
+If needed, we can drop the rows with missing values (NaN). We then convert “Pclass, Sex, Embarked values” into columns, dropping the same 
 columns from the data frame. To handle the missing value, age, we compute a median of all the ages. Jumping into splitting the data set into training set and test set. 
 The dataset is split 70% training and 30% test. 
 
