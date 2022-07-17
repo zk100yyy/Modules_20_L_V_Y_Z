@@ -1,5 +1,5 @@
 Goal for this Notebook:
-Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities. 
+My team will show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities. 
 This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python.
 
 This Notebook will show basic examples of:
@@ -7,7 +7,7 @@ This Notebook will show basic examples of:
 * Importing Data with Pandas
 * Cleaning Data
 * Exploring Data through Visualizations with Matplotlib
-
+* Merage two CSV files into one DataBase
 
 •	Description of preliminary data preprocessing
 The Titanic shipwreck was a massive disaster, so we will implement data pre- processing on this data set to know the number of survivors and their details. 
