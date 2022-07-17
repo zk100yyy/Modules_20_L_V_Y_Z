@@ -7,11 +7,18 @@
 
 ## Second Week 
 
-Goal for this Final Project:
-My team will show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities
-This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python
 
-This Notebook will show basic examples of:
+1. Connecting to the database
+2. Running your SQL query against the database you connected to in line 1
+3. Iterating through the query.description.  Pulling out the first element, the first element is the column name
+4. Making a dataframe from the query and columns
+
+these code are inteding to taking a sql query and putting it into a dataframe.
+
+Goal for this Final Project:
+My team will work on a example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities and SQLAlchemy.
+
+This Final project will show basic examples of:
 * Data Handling
 * Importing Data with Pandas
 * Cleaning Data
@@ -20,17 +27,11 @@ This Notebook will show basic examples of:
 * Merage two CSV files into one DataBase
 
 •	Description of preliminary data preprocessing
-The Titanic shipwreck was a massive disaster, so we will implement data pre- processing on this data set to know the number of survivors and their details. 
-First, we start off by importing all the data into our system, training data set and testing data set are given by Kaggle and we will download from Kaggle. 
-
-In our case we chose to load data with pandas,next, we have Meraged the two CSV files( Train.cvs file and test.vcs file) into one DataBasewe
-And we will be dropping columns that don’t contribute much to our model such as “name, ticket, cabin etc.”
-If needed, we can drop the rows with missing values (NaN). We then convert “Pclass, Sex, Embarked values” into columns, dropping the same 
-columns from the data frame. To handle the missing value, age, we compute a median of all the ages. Jumping into splitting the data set into training set and test set
-The dataset is split 70% training and 30% test
+The Titanic shipwreck was a massive disaster, so we will implement data pre- processing on this data set to know the number of survivors and their details, and the relationship between their social-status,age,gender and other factors, and find the correlation between them and rate of thier survival rate. 
+First, In our case we chose to load data with pandas,we start off by importing all the data into our system, training data set and testing data set are given by Kaggle and we will download from Kaggle, these two Data sets being merage into one 'titanic_test.db' file, we inteding to taking the sql query and putting it into a dataframe. We first Connecting to the database, running our SQL query against the database that connected and Iterating through the query.description.  Pulling out the each element if its needed, then making a dataframe from the query and columns. And we will be dropping columns that don’t contribute much to our model such as “name, ticket, cabin etc.” If needed, we can drop the rows with missing values (NaN). We then convert “Pclass, Sex, Embarked values” into columns, dropping the same columns from the data frame. To handle the missing value, age, we compute a median of all the ages. Jumping into splitting the data set into training set and test set The dataset is split 70% training and 30% test.
 
 •	Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
-Feature preliminary engineering includes titles, deck, family size, age* classification, and fare per person
+Feature preliminary engineering includes titles, deck, family size, age* classification, and fare per person, the decision-makeing process is based on the avaliability of these public data/features and correlation between these preliminary feature with the rate of survival. 
 
 •	Description of how data was split into training and testing sets
  For the training set was based on “features” like passengers’ gender and class., we provide the outcome for each passenger
@@ -38,3 +39,4 @@ Feature preliminary engineering includes titles, deck, family size, age* classif
  whether they survived the sinking of the Titanic
   
 •	Explanation of model choice, including limitations and benefits
+  among many models and dependencies that are available, we chose pandas,sqlite3 and numpy these three for the preliminary stage, we'll import more if needed in later stage of the project, we choose pandas because Pandas is a Python library for manipulating data that will fit in memory, it was one of the most common used dependcy we used through out our class, and it represent and organize data super well, so even the limitations of the pandas is it does not persist data well, the benefits still overweight the limitation of pandas. We also use 
