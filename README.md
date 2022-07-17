@@ -7,14 +7,6 @@
 
 ## Second Week 
 
-
-1. Connecting to the database
-2. Running your SQL query against the database you connected to in line 1
-3. Iterating through the query.description.  Pulling out the first element, the first element is the column name
-4. Making a dataframe from the query and columns
-
-these code are inteding to taking a sql query and putting it into a dataframe.
-
 Goal for this Final Project:
 My team will work on a example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities and SQLAlchemy.
 
@@ -39,4 +31,4 @@ Feature preliminary engineering includes titles, deck, family size, age* classif
  whether they survived the sinking of the Titanic
   
 •	Explanation of model choice, including limitations and benefits
-  among many models and dependencies that are available, we chose pandas,sqlite3 and numpy these three for the preliminary stage, we'll import more if needed in later stage of the project, we choose pandas because Pandas is a Python library for manipulating data that will fit in memory, it was one of the most common used dependcy we used through out our class, and it represent and organize data super well, so even the limitations of the pandas is it does not persist data well, the benefits still overweight the limitation of pandas. We also use sqlite3 because SQLite is a very light weighted database that we did learn and get somewhat familiar with. eventhough it is limitated and Database size is restricted small in most cases, but since the Titanic data set is not gigantic so it's a perfect choice for our Final project. 
+  among many models and dependencies that are available, we chose pandas,sqlite3 and numpy these three for the preliminary stage, we'll import more if needed in later stage of the project, we choose pandas because Pandas is a Python library for manipulating data that will fit in memory, it was one of the most common used dependcy we used through out our class, and it represent and organize data super well, so even the limitations of the pandas is it does not persist data well, the benefits still overweight the limitation of pandas. We also use sqlite3 because SQLite is a very light weighted database that we did learn and get somewhat familiar with. eventhough it is limitated and Database size is restricted small in most cases, but since the Titanic data set is not gigantic so it's a perfect choice for our Final project.
