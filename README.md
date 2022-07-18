@@ -70,7 +70,7 @@ Feature preliminary engineering includes titles, deck, family size, age* classif
 
 ## Database
 
-• [titanic_test.db](titanic_data\titanic_test.db)
+• [titanic_test.db](titanic_data/titanic_test.db)
 
 • The Database we created contant two tables which are 'passenger_data'  and 'Survived_table'.
 
