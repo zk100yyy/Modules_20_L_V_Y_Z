@@ -74,10 +74,10 @@ Feature preliminary engineering includes titles, deck, family size, age* classif
 
 • The Database we created contant two tables which are 'passenger_data'  and 'Survived_table'.
 
-![db](titanic_data\image\db.png "db")
-![survived_table](titanic_data\image\survived_table.png "survived_table")
+![db](titanic_data/image/db.png "db")
+![survived_table](titanic_data/image/survived_table.png "survived_table")
 
 
 
-• In the python file  [How_to_read_sqlite](titanic_data\How_to_read_sqlite.ipynb) we use sqlite3 and pandas to join/merge two tables.
+• In the python file  [How_to_read_sqlite](titanic_data/How_to_read_sqlite.ipynb) we use sqlite3 and pandas to join/merge two tables.
 
