@@ -81,3 +81,5 @@ Feature preliminary engineering includes titles, deck, family size, age* classif
 
 • In the python file  [How_to_read_sqlite](titanic_data/How_to_read_sqlite.ipynb) we use sqlite3 and pandas to join/merge two tables.
 
+## Dashboard
+* https://public.tableau.com/app/profile/yanyi.jiao/viz/Titanic_16586355567520/Dashboard1
