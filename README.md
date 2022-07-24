@@ -5,6 +5,9 @@
 ### Questions hope to answer with the data: With the passengers being in different ages and socioeconomic status, many people fortunately survived and many died,We want to build a predictive model that answers the question: “what sorts of people were more likely to survive?"
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Second Week 
 
 Goal for this Final Project:
