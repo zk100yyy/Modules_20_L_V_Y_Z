@@ -72,13 +72,5 @@ Feature preliminary engineering includes titles, deck, family size, age* classif
 
 • [titanic_test.db](titanic_data/titanic_test.db)
 
-• The Database we created contant two tables which are 'passenger_data'  and 'Survived_table'.
-
-![db](titanic_data/image/db.png "db")
-![survived_table](titanic_data/image/survived_table.png "survived_table")
-
-
-
-
 ## Dashboard
 * https://public.tableau.com/app/profile/yanyi.jiao/viz/Titanic_16586355567520/Dashboard1
