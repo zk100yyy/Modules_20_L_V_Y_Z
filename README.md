@@ -84,8 +84,8 @@ Feature preliminary engineering includes titles, deck, family size, age* classif
 ## Dashboard
 * https://public.tableau.com/app/profile/yanyi.jiao
 
+[Google Slides](https://docs.google.com/presentation/d/1W8pgMciNIvtBaQ2rh6cvdtC6Av4NPGfg29NVWHxgG0A/edit?usp=sharing)
 
-*![Google Slides](https://docs.google.com/presentation/d/1W8pgMciNIvtBaQ2rh6cvdtC6Av4NPGfg29NVWHxgG0A/edit?usp=sharing)
 
 
 ## Machine Learning Final 
