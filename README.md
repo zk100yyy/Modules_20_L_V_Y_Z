@@ -83,3 +83,14 @@ Feature preliminary engineering includes titles, deck, family size, age* classif
 
 ## Dashboard
 * https://public.tableau.com/app/profile/yanyi.jiao/viz/Titanic_16586355567520/Dashboard1
+
+## Machine Learning Final 
+
+*	Create dataframe by merging database with python
+* Use original csv for exploratory analysis, creating multiple charts based on genders, classes, ages
+*	Process and transform these variables so that the data becomes manageable by a machine learning algorithm.
+* Process text variables like the passenger names and integrate this information in our model.
+*	Break the combined dataset in train set and test set.
+*	Use the train set to build a predictive model.
+* Evaluate the model using the train set.
+* Test the model using the test set and generate and output file for the submission.
